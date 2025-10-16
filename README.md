@@ -32,8 +32,8 @@
     - Diseño **responsive** (mobile-first).
     - Accesibilidad mínima: `alt` en imágenes, foco visible, buen contraste.
 
-    **Repo:** https://github.com/USUARIO/tateti
-**Demo:** https://USUARIO.github.io/tateti/
+    **Repo:** https://github.com/sebakhazzaka2/tateti
+
 
     ---
     Autor: **Sebastián Khazzaka** (ORT Uruguay)  
