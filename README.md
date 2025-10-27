@@ -2,28 +2,14 @@
     Juego de Ta-Te-Ti con estado de partida y reinicio.
 
     ## Tecnologías
-    - HTML
-- CSS
-- JavaScript
+   -Java por consola
 
     ## Funcionalidades
     - Turnos alternados X/O
-- Detección de ganador o empate
-- Botón de reiniciar partida
-- Modo vs. humano (básico)
+    - Detección de ganador o empate
+    - Botón de reiniciar partida
+    - Modo vs. humano (básico)
 
-    ## Estructura 
-    ```
-    /
-    ├── index.html
-    ├── style.css
-    ├── script.js
-    └── assets/ (imágenes, íconos)
-    ```
-
-    ## Cómo ejecutar
-    - Opción 1: Abrir `index.html` con el navegador (doble clic).
-    - Opción 2 (recomendada): VS Code + extensión **Live Server** → clic en “Open with Live Server”.
 
     ## Buenas prácticas
     - Variables y funciones con **nombres en español** y claros.
